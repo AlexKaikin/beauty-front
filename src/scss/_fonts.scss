@@ -1,63 +1,84 @@
 @font-face {
-	font-family: Jost;
+	font-family: Roboto;
 	font-display: swap;
-	src: url("../fonts/Jost-Black.woff2") format("woff2"), url("../fonts/Jost-Black.woff") format("woff");
+	src: url("../fonts/Roboto-Black.woff2") format("woff2"), url("../fonts/Roboto-Black.woff") format("woff");
 	font-weight: 900;
 	font-style: normal;
 }
 @font-face {
-	font-family: Jost;
+	font-family: Roboto;
 	font-display: swap;
-	src: url("../fonts/Jost-Bold.woff2") format("woff2"), url("../fonts/Jost-Bold.woff") format("woff");
+	src: url("../fonts/Roboto-BlackItalic.woff2") format("woff2"), url("../fonts/Roboto-BlackItalic.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: Roboto;
+	font-display: swap;
+	src: url("../fonts/Roboto-Bold.woff2") format("woff2"), url("../fonts/Roboto-Bold.woff") format("woff");
 	font-weight: 700;
 	font-style: normal;
 }
 @font-face {
-	font-family: Jost;
+	font-family: Roboto;
 	font-display: swap;
-	src: url("../fonts/Jost-ExtraBold.woff2") format("woff2"), url("../fonts/Jost-ExtraBold.woff") format("woff");
-	font-weight: 800;
-	font-style: normal;
+	src: url("../fonts/Roboto-BoldItalic.woff2") format("woff2"), url("../fonts/Roboto-BoldItalic.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
 }
 @font-face {
-	font-family: Jost;
+	font-family: Roboto;
 	font-display: swap;
-	src: url("../fonts/Jost-ExtraLight.woff2") format("woff2"), url("../fonts/Jost-ExtraLight.woff") format("woff");
-	font-weight: 200;
-	font-style: normal;
+	src: url("../fonts/Roboto-Italic.woff2") format("woff2"), url("../fonts/Roboto-Italic.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
 }
 @font-face {
-	font-family: Jost;
+	font-family: Roboto;
 	font-display: swap;
-	src: url("../fonts/Jost-SemiBold.woff2") format("woff2"), url("../fonts/Jost-SemiBold.woff") format("woff");
-	font-weight: 600;
-	font-style: normal;
+	src: url("../fonts/Roboto-MediumItalic.woff2") format("woff2"), url("../fonts/Roboto-MediumItalic.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
 }
 @font-face {
-	font-family: Jost;
+	font-family: Roboto;
 	font-display: swap;
-	src: url("../fonts/Jost-Thin.woff2") format("woff2"), url("../fonts/Jost-Thin.woff") format("woff");
-	font-weight: 100;
-	font-style: normal;
-}
-@font-face {
-	font-family: Jost;
-	font-display: swap;
-	src: url("../fonts/Jost-Light.woff2") format("woff2"), url("../fonts/Jost-Light.woff") format("woff");
+	src: url("../fonts/Roboto-Light.woff2") format("woff2"), url("../fonts/Roboto-Light.woff") format("woff");
 	font-weight: 300;
 	font-style: normal;
 }
 @font-face {
-	font-family: Jost;
+	font-family: Roboto;
 	font-display: swap;
-	src: url("../fonts/Jost-Medium.woff2") format("woff2"), url("../fonts/Jost-Medium.woff") format("woff");
-	font-weight: 500;
+	src: url("../fonts/Roboto-Regular.woff2") format("woff2"), url("../fonts/Roboto-Regular.woff") format("woff");
+	font-weight: 400;
 	font-style: normal;
 }
 @font-face {
-	font-family: Jost;
+	font-family: Roboto;
 	font-display: swap;
-	src: url("../fonts/Jost-Regular.woff2") format("woff2"), url("../fonts/Jost-Regular.woff") format("woff");
+	src: url("../fonts/Roboto-Thin.woff2") format("woff2"), url("../fonts/Roboto-Thin.woff") format("woff");
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: Roboto;
+	font-display: swap;
+	src: url("../fonts/Roboto-ThinItalic.woff2") format("woff2"), url("../fonts/Roboto-ThinItalic.woff") format("woff");
 	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: Roboto;
+	font-display: swap;
+	src: url("../fonts/Roboto-LightItalic.woff2") format("woff2"), url("../fonts/Roboto-LightItalic.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: Roboto;
+	font-display: swap;
+	src: url("../fonts/Roboto-Medium.woff2") format("woff2"), url("../fonts/Roboto-Medium.woff") format("woff");
+	font-weight: 500;
 	font-style: normal;
 }
